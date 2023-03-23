@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\bin\Debug\HalfSemsterDiver.exe.config
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\bin\Debug\HalfSemsterDiver.exe
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\bin\Debug\HalfSemsterDiver.pdb
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\obj\Debug\HalfSemsterDiver.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\obj\Debug\HalfSemsterDiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\obj\Debug\HalfSemsterDiver.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\obj\Debug\HalfSemsterDiver.exe
+C:\Users\user\Desktop\Programing\C-Sharp\HalfSemsterDiver\HalfSemsterDiver\obj\Debug\HalfSemsterDiver.pdb
